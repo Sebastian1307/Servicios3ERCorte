@@ -86,20 +86,18 @@ FallingAnvils/
 - **C#**
 
 ---
-
 ## 📹 Demostración del juego
 
-🎥 Mira el video de demostración del funcionamiento del juego:
-
-[Ver demo en el repositorio](Assets/AssetsRepositorio/FuncionamientoJuegoFallingAnvils.mp4)
+🎥 Mira el video de demostración del funcionamiento del juego en YouTube:  
+[![Ver demo en YouTube](https://img.youtube.com/vi/jqb4Bu9sbWs/0.jpg)](https://youtu.be/jqb4Bu9sbWs?si=kfgTKYlBFKiHcMiM)
 
 ---
 
 ## 👨‍💻 Autor
 
-Desarrollado por **Sebas**  
-💡 Proyecto para la materia *Servicios en la Nube - 3er Corte*  
-📍 Universidad / Curso de Ingeniería Multimedia
+Desarrollado por **Sebastian Beltran**  
+💡 Proyecto para la materia *Servicios multimedia - 3er Corte*  
+📍 Ingeniería Multimedia
 
 ---
 
