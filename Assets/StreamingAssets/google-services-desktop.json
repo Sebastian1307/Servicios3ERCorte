@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "589076774665",
+    "project_id": "serviciosmultimediasebastianb",
+    "storage_bucket": "serviciosmultimediasebastianb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589076774665:android:acd9da6a20846bcfb6ddd8",
+        "android_client_info": {
+          "package_name": "com.Sk1307.Servicios3ERCorte"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtILOG9dVTNL7_RxzsZpG__Zbfbp7h_FQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

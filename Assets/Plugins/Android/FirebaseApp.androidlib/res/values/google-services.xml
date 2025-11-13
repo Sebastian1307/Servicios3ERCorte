@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id">
+  <string name="gcm_defaultSenderId" translatable="false">589076774665</string>
+  <string name="google_storage_bucket" translatable="false">serviciosmultimediasebastianb.firebasestorage.app</string>
+  <string name="project_id" translatable="false">serviciosmultimediasebastianb</string>
+  <string name="google_api_key" translatable="false">AIzaSyCtILOG9dVTNL7_RxzsZpG__Zbfbp7h_FQ</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCtILOG9dVTNL7_RxzsZpG__Zbfbp7h_FQ</string>
+  <string name="google_app_id" translatable="false">1:589076774665:android:acd9da6a20846bcfb6ddd8</string>
+</resources>
